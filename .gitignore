@@ -1,3 +1,6 @@
-#VSCODE
+# VSCODE
 .vscode
 .history
+
+# VENV
+/my
